@@ -1,16 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- description: Mittendorf, M.; Papanikolaou, A.D. (2021) Hydrodynamic hull form optimization of fast catamarans using surrogate models. Ship Technology Research, 68:1, 14-26, DOI: 10.1080/09377255.2020.1802165
+
+# jazznotes.io
+- description: Mittendorf, M (2019) Development and Application of a Resistance Optimization Procedure for Catamarans with the Design Software CAESES (in German). Jahrbuch der Schiffbautechnischen Gesellschaft Band 119. 
+
+# jazznotes.io
+- description: Kanellopoulou, A.; Xing-Kading, Y.; Mittendorf, M (2019) Parametric Design and Optimization of a Battery-driven Catamaran in CAESES. Proc. CAESES User Meeting 2019, Berlin
+
