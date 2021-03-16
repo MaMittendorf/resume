@@ -1,15 +1,9 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
-
 # Springfield Community Outreach Group
-- 
-description: Mittendorf, M.; Papanikolaou, A.D. (2021) Hydrodynamic hull form optimization of fast catamarans using surrogate models. Ship Technology Research, Vol. 68, No. 1, pp. 14-26
+- project: Journal Papers
+description: <ul class="resume-item-list"><li>Mittendorf, M.; Papanikolaou, A.D. (2021) Hydrodynamic hull form optimization of fast catamarans using surrogate models. Ship Technology Research, Vol. 68, No. 1, pp. 14-26</li></ul> 
 
-# jazznotes.io
-- 
-description: Mittendorf, M (2019) Development and Application of a Resistance Optimization Procedure for Catamarans with the Design Software CAESES (in German). Jahrbuch der Schiffbautechnischen Gesellschaft Band 119. 
-
-# jazznotes.io
-- 
-description: Kanellopoulou, A.; Xing-Kading, Y.; Mittendorf, M (2019) Parametric Design and Optimization of a Battery-driven Catamaran in CAESES. Proc. CAESES User Meeting 2019, Berlin
+- project: Conference Papers
+description: <ul class="resume-item-list"><li>Mittendorf, M (2019) Development and Application of a Resistance Optimization Procedure for Catamarans with the Design Software CAESES (in German). Jahrbuch der Schiffbautechnischen Gesellschaft Band 119. </li><li>Kanellopoulou, A.; Xing-Kading, Y.; Mittendorf, M (2019) Parametric Design and Optimization of a Battery-driven Catamaran in CAESES. Proc. CAESES User Meeting 2019, Berlin</li></ul> 
 
