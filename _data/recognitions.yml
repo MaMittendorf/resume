@@ -1,6 +1,7 @@
 # Recognitions
 - award: Journal Papers
-  summary : Mittendorf, M. & Papanikolaou, A.D. (2021) Hydrodynamic hull form optimization of fast catamarans using surrogate models, Ship Technology Research, 68:1, 14-26
-  
-- award: Conference Papers
-  summary: STG paper <br> CAESES 
+  summary : Mittendorf, M. & Papanikolaou, A.D. Hydrodynamic hull form optimization of fast catamarans using surrogate models, Ship Technology Research, 68:1, 14-26
+  year: 2021
+- award: Conferences
+  year: 2019
+  summary: Mittendorf, M. Development and Application of a Optimization Procedure for Fast Catamarans with the Design Software CAESES (in German). Jahrbuch der Schiffbautechnischen Gesellschaft Band 119. <br> Kanellopoulou A, Xing-Kaeding Y & Mittendorf M. Parametric design and optimization of a battery-driven catamaran in CAESES. CAESES Users Meeting, Berlin. 
