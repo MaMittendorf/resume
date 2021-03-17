@@ -1,6 +1,6 @@
 # Site settings
 title: "Malte Mittendorf Curriculum Vitae"
-description: "CV MM"
+description: "https://mamittendorf.github.io/resume/"
 
 # Build settings
 markdown: kramdown
@@ -36,8 +36,8 @@ resume_header_intro: "<p>Currently, I am working as a PhD student at the Section
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_skills:          true
-resume_section_projects:        true
-#resume_section_recognition:     true
+#resume_section_projects:        true
+resume_section_recognition:     true
 #resume_section_links:           true
 #resume_section_associations:    true
 # resume_section_interests:       true
