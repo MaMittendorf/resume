@@ -1,12 +1,18 @@
 # Jobs
 # VP of Global Communications
 - company: Technical University of Denmark (DTU)
-  position: Research/ Teaching Assistant and PhD Candidate
+  position: Research/Teaching Assistant and PhD Candidate
   duration: Mar, 2020 &mdash; Present
-  #summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
+  summary: The PhD project is the estimation of the added wave and frictional resistances using in-situ measurement data. Therefore the two main research areas are ship seakeeping and statistical modelling (incl. machine learning and time series analysis). My research will focus on state of the art deep learning methods.
+  
 # Director of Digital Stratgy
 - company: Hamburg Ship Model Basin (HSVA)
   position: Master Candidate
-  duration:  Mar, 2019 &mdash; Aug, 2019
-  #summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  duration: Mar, 2019 &mdash; Aug, 2019
+  summary: My MEng thesis was about the multiobjective hullform optimization of a fast battery-driven catamaran using different CFD tools including a novel software based on thin ship theory. This task enhanced my knowledge about potential flow and viscous CFD software and theory. Furthermore, I had the chance to participate in the two EU research projects TrAM and HOLISHIP. 
+
+# Director of Digital Stratgy
+- company: SMILE Engineering
+  position: Bachelor Candidate
+  duration: Apr, 2017 &mdash; Aug, 2017
+  summary: In the frame of the EcoShip60 project, I developed an empirical power prediction software for planing hulls and validated it conducting model tests.
