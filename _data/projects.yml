@@ -3,7 +3,7 @@
 
 # jazznotes.io
 - project: Journal Papers
-  description: <ul class="resume-item-list"><li>paper1</li><li>paper2</li><li>paper3</li></ul>
+  role: <ul class="resume-item-list"><li>paper1</li><li>paper2</li><li>paper3</li></ul>
   
 - project: Conference Papers
-  description: <ul class="resume-item-list"><li>paper1</li><li>paper2</li><li>paper3</li></ul>
+  role: <ul class="resume-item-list"><li>paper1</li><li>paper2</li><li>paper3</li></ul>
