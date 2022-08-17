@@ -23,7 +23,7 @@ resume_contact_email:           "malte.mittendorf@gmail.com"
 #resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 #display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Currently, I am working as a PhD student at the Section of Fluid Mechanics and Coastal and Maritime Engineering (DTU MEK) and my project is about the combination of the governing physics and statistics of ships in a seaway with machine learning models. I have a strong background in ship hydrodynamics and design.</p>"
+resume_header_intro: "<p>Currently, I am working as a PhD student at the Section of Fluid Mechanics and Coastal and Maritime Engineering (DTU Construct) and my project is about the combination of the governing physics and statistics of ships in a seaway with machine learning models. I have a strong background in ship hydrodynamics and design.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
