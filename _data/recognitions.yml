@@ -1,5 +1,11 @@
 # Recognitions
 - award: Journal Papers
-  summary : Mittendorf, M.; Nielsen, U.D.; Bingham, H.B.; Storhaug, G. (2022) Sea state identification using machine learning — A comparative study based on in-service data from a container vessel. Marine Structures 85:103274 <br> Mittendorf, M. & Papanikolaou, A.D. (2021) Hydrodynamic hull form optimization of fast catamarans using surrogate models, Ship Technology Research, 68:1, 14-26 
-- award: Conferences
-  summary: Mittendorf, M.; Nielsen, U.D.; Bingham, H.B.; Storhaug, G. (2022) On the Determination of the Relative Wave Direction based on Measured Ship Responses using Deep Multi-Task Learning. Symposium on High Performance Marine Vehicles 2022, Cortona. <br>  <br> Mittendorf, M. (2019) Development and Application of a Optimization Procedure for Fast Catamarans with the Design Software CAESES (in German). Jahrbuch der Schiffbautechnischen Gesellschaft Band 119. <br> Kanellopoulou A, Xing-Kaeding Y & Mittendorf M. (2019) Parametric design and optimization of a battery-driven catamaran in CAESES. CAESES Users Meeting, Berlin. 
+  year: 2022
+  summary : Mittendorf, M.; Nielsen, U.D.; Bingham, H.B.; Storhaug, G. (2022) Sea state identification using machine learning — A comparative study based on in-service data from a container vessel. Marine Structures 85:103274  
+  year: 2021
+  summary: Mittendorf, M. & Papanikolaou, A.D. (2021) Hydrodynamic hull form optimization of fast catamarans using surrogate models, Ship Technology Research, 68:1, 14-26 
+- award: Conference Papers and Presentations
+  year: 2022
+  summary: Mittendorf, M.; Nielsen, U.D.; Bingham, H.B.; Storhaug, G. (2022) On the Determination of the Relative Wave Direction based on Measured Ship Responses using Deep Multi-Task Learning. Symposium on High Performance Marine Vehicles 2022, Cortona. <br>  
+  year: 2019
+  summary: Mittendorf, M. (2019) Development and Application of a Optimization Procedure for Fast Catamarans with the Design Software CAESES (in German). Jahrbuch der Schiffbautechnischen Gesellschaft Band 119. <br> Kanellopoulou A, Xing-Kaeding Y & Mittendorf M. (2019) Parametric design and optimization of a battery-driven catamaran in CAESES. CAESES Users Meeting, Berlin. 
