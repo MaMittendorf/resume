@@ -3,13 +3,19 @@
 - company: Technical University of Denmark (DTU)
   position: Research/Teaching Assistant and PhD Candidate
   duration: Mar, 2020 &mdash; Present
-  summary: The PhD project is about the estimation of the added wave and frictional resistances of ships using in-situ measurement data. Therefore the two main research areas are ship seakeeping and statistical modelling including machine learning and time series analysis. My research is aimed on state of the art deep learning methods.
+  summary: The PhD project is about the estimation of the added wave and frictional resistances of ships using in-situ measurement data. Therefore the two main research areas are ship seakeeping and statistical modelling including machine learning and time series analysis. My research is aimed on state of the art deep learning and uncertainty quantification methods.
+  
+  # Director of Digital Stratgy
+- company: Wärtsilä Voyage
+  position: External Researcher
+  duration: Jun, 2021 &mdash; Nov, 2021
+  summary: I had the opportunity to visit Wärtsilä Voyage in Hamburg for my External Research Stay. The project work was aimed at enhancing ship safety by ship-based sea state identification using Deep Learning. Moreover, a novel method for quantifying the degree of biofouling on a vessel's hull has been proposed in close collaboration with Hempel.
   
 # Director of Digital Stratgy
 - company: Hamburg Ship Model Basin (HSVA)
   position: Master Candidate
   duration: Mar, 2019 &mdash; Aug, 2019
-  summary: The goal of my MEng thesis was the surrogate-based multiobjective hullform optimization of a fast battery-driven catamaran using different CFD tools including a newly developed software based on thin ship theory. This project enhanced my knowledge about potential flow and viscous CFD theory and software. Furthermore, I had the chance to participate in two EU research projects, namely TrAM and HOLISHIP. 
+  summary: The goal of my M.Eng. thesis was the surrogate-based multiobjective hullform optimization of a fast battery-driven catamaran using different CFD tools including a newly developed software based on thin ship theory. This project enhanced my knowledge about potential flow and viscous CFD theory and software. Furthermore, I had the chance to participate in two EU research projects, namely TrAM and HOLISHIP. 
 
 # Director of Digital Stratgy
 - company: SMILE Engineering
